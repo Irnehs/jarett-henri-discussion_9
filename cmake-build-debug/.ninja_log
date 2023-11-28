@@ -1,0 +1,8 @@
+# ninja log v5
+7	823	7228593160125156	build.ninja	90d2f74d6ca23bdd
+7	789	7228592561810957	CMakeFiles/jarett_henri_discussion_week_9.dir/main.cpp.obj	709edd5b85553800
+19	782	7228592561760938	CMakeFiles/jarett_henri_discussion_week_9.dir/BinarySearchTree.cpp.obj	5325160f589c4119
+2	373	7228593160125156	build.ninja	90d2f74d6ca23bdd
+6	720	7228593804848069	CMakeFiles/jarett_henri_discussion_week_9.dir/main.cpp.obj	709edd5b85553800
+18	746	7228593805116031	CMakeFiles/jarett_henri_discussion_week_9.dir/BinarySearchTree.cpp.obj	5325160f589c4119
+747	1745	7228593814962529	jarett_henri_discussion_week_9.exe	896dbbc132383aa9
